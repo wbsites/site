@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+  
+.teks-c {
+  background-color: black;
+  color: green;
+  font-weight: 999;
+}
+.navbar-brand {
+  font-weight: 999;
+}
+.btn-mythic {
+  display: inline-block;
+  background-color: #00ff00; /* Warna latar belakang */
+  color: black; /* Warna teks */
+  padding: 10px 20px; /* Ruang dalam tombol */
+  text-align: center;
+  text-decoration: none; /* Hilangkan garis bawah */
+  border-radius: 5px; /* Lengkungan sudut */
+  font-weight: 999; /* Buat teks lebih tebal */
+  border: none; /* Hilangkan border */
+}
+
+.btn-group-mythic:hover {
+  background-color: darkgreen; /* Warna saat hover */
+}
+.tels {
+  font-weight: 999;
+  color: black;
+  background-color: ;
+    margin-top: 90px; /* Menambahkan jarak ke elemen di bawahnya */
+}
+
+form, button {
+  background-color: ;
+    margin-top: 15px; /* Memberi jarak antara tombol dan form */
+}
