@@ -95,13 +95,13 @@ footer {
 }
 
 .footer-section h3 {
-    font-size: 30px; /* Perkecil ukuran judul */
-    margin-bottom: 10px; /* Kurangi jarak bawah */
+    font-size: 5px; /* Perkecil ukuran judul */
+    margin-bottom: 2px; /* Kurangi jarak bawah */
 }
 
 .footer-section ul, p {
-    font-size: 10px; /* Perkecil ukuran teks */
-    margin: 15px 0; /* Kurangi jarak antar elemen */
+    font-size: 5px; /* Perkecil ukuran teks */
+    margin: 5px 0; /* Kurangi jarak antar elemen */
 }
 .video-1 {
   margin-top: 50px;
@@ -110,4 +110,3 @@ footer {
 body {
     background-color: white; /* Ubah warna sesuai keinginan */
     color: none; /* Warna teks */
-}
